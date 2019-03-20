@@ -1,0 +1,225 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Trump\Android_CODE\perfect attempts\best\UCFLive\app\src\main\AndroidManifest.xml:2:1-55:12
+INJECTED from C:\Users\Trump\Android_CODE\perfect attempts\best\UCFLive\app\src\main\AndroidManifest.xml:2:1-55:12
+INJECTED from C:\Users\Trump\Android_CODE\perfect attempts\best\UCFLive\app\src\main\AndroidManifest.xml:2:1-55:12
+INJECTED from C:\Users\Trump\Android_CODE\perfect attempts\best\UCFLive\app\src\main\AndroidManifest.xml:2:1-55:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\c584e55166d2bdb8ca632471053d478c\AndroidManifest.xml:2:1-11:12
+MERGED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\extensions-1.1.1.aar\c28ca7520c40d901b81b2f10fd7e0f53\AndroidManifest.xml:17:1-30:12
+MERGED from [com.android.support:design:28.0.0] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\0521be7866e7b5595b2603dfb02864ad\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\4b35ab5a4da0ba4a48b6715f32561a31\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\c9dbc4737e7eee16e91a6d11abd5c847\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\284687622f67d35588a70a8f122d57ab\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\9ea34d8857bc2d10beb8c6ecfdcc6444\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\0adf83d54895017678d419e9be642861\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\28cfa6a1006c2a5b0270f43d4b6bfdb1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\4a3586e9e92401955e9bc4b005da3d5c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\5097ec91758f79f4588e3ea79bdb884d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\28cd408bc2b533c809ee3dc66054b2f2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\3481e015a7aec6bdea8ad15a6106623b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\f4b0d751510755530b8365924bd9fdaa\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\f43f45a732490932a4e0aab7c8fcb0be\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\680878effbbe157c810a12759ce456ce\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\2b328f6f61b38e41b45b7857761e8b32\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\52548581bd18b4b54dc6dbab5b4379d1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\21ebca05fcfc60521b9f896cf001efce\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\6cfb5b5c0a4ef377b6515ec0954d1706\AndroidManifest.xml:17:1-24:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\a5575bba2c4d4907850b3f952e9b7596\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\a75ebcbe2fbdf1f4e75d891d300c99b8\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\09e9b771ac16016985cdc355fdbdb342\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\330971b8902ca707ac022e913581c71c\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\025f8547711c86232a72cdb185933027\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\9daee60925ddb6c9e0891005d527ba2d\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\fa2b412a710ec19e5f785e43e5011406\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\5f582c0b8f10746ba759fab81e466598\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\92fdd45d823cae4ad9090908bd87cc70\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\eb25f0e8a61117710eee014b8e5a7501\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\e70e98e0ebad0b37bd0a435b1c9a6c74\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\de208e69c96f4cdc47e0d79c12694dec\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\Trump\Android_CODE\perfect attempts\best\UCFLive\app\src\main\AndroidManifest.xml:2:1-55:12
+INJECTED from C:\Users\Trump\Android_CODE\perfect attempts\best\UCFLive\app\src\main\AndroidManifest.xml:2:1-55:12
+INJECTED from C:\Users\Trump\Android_CODE\perfect attempts\best\UCFLive\app\src\main\AndroidManifest.xml:2:1-55:12
+	package
+		ADDED from C:\Users\Trump\Android_CODE\perfect attempts\best\UCFLive\app\src\main\AndroidManifest.xml:3:5-41
+		INJECTED from C:\Users\Trump\Android_CODE\perfect attempts\best\UCFLive\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Trump\Android_CODE\perfect attempts\best\UCFLive\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Trump\Android_CODE\perfect attempts\best\UCFLive\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Trump\Android_CODE\perfect attempts\best\UCFLive\app\src\main\AndroidManifest.xml:2:1-55:12
+		INJECTED from C:\Users\Trump\Android_CODE\perfect attempts\best\UCFLive\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Trump\Android_CODE\perfect attempts\best\UCFLive\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Trump\Android_CODE\perfect attempts\best\UCFLive\app\src\main\AndroidManifest.xml:2:1-55:12
+		INJECTED from C:\Users\Trump\Android_CODE\perfect attempts\best\UCFLive\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Trump\Android_CODE\perfect attempts\best\UCFLive\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from C:\Users\Trump\Android_CODE\perfect attempts\best\UCFLive\app\src\main\AndroidManifest.xml:5:5-71
+	android:name
+		ADDED from C:\Users\Trump\Android_CODE\perfect attempts\best\UCFLive\app\src\main\AndroidManifest.xml:5:22-68
+uses-permission#android.permission.READ_PROFILE
+ADDED from C:\Users\Trump\Android_CODE\perfect attempts\best\UCFLive\app\src\main\AndroidManifest.xml:6:5-71
+	android:name
+		ADDED from C:\Users\Trump\Android_CODE\perfect attempts\best\UCFLive\app\src\main\AndroidManifest.xml:6:22-68
+uses-permission#android.permission.READ_CONTACTS
+ADDED from C:\Users\Trump\Android_CODE\perfect attempts\best\UCFLive\app\src\main\AndroidManifest.xml:7:5-72
+	android:name
+		ADDED from C:\Users\Trump\Android_CODE\perfect attempts\best\UCFLive\app\src\main\AndroidManifest.xml:7:22-69
+application
+ADDED from C:\Users\Trump\Android_CODE\perfect attempts\best\UCFLive\app\src\main\AndroidManifest.xml:9:5-53:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\c584e55166d2bdb8ca632471053d478c\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\c584e55166d2bdb8ca632471053d478c\AndroidManifest.xml:9:5-20
+MERGED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\extensions-1.1.1.aar\c28ca7520c40d901b81b2f10fd7e0f53\AndroidManifest.xml:22:5-28:19
+MERGED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\extensions-1.1.1.aar\c28ca7520c40d901b81b2f10fd7e0f53\AndroidManifest.xml:22:5-28:19
+MERGED from [com.android.support:design:28.0.0] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\0521be7866e7b5595b2603dfb02864ad\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\0521be7866e7b5595b2603dfb02864ad\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\6cfb5b5c0a4ef377b6515ec0954d1706\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\6cfb5b5c0a4ef377b6515ec0954d1706\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\9daee60925ddb6c9e0891005d527ba2d\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\9daee60925ddb6c9e0891005d527ba2d\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\6cfb5b5c0a4ef377b6515ec0954d1706\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from C:\Users\Trump\Android_CODE\perfect attempts\best\UCFLive\app\src\main\AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from C:\Users\Trump\Android_CODE\perfect attempts\best\UCFLive\app\src\main\AndroidManifest.xml:12:9-44
+	android:icon
+		ADDED from C:\Users\Trump\Android_CODE\perfect attempts\best\UCFLive\app\src\main\AndroidManifest.xml:11:9-43
+	android:allowBackup
+		ADDED from C:\Users\Trump\Android_CODE\perfect attempts\best\UCFLive\app\src\main\AndroidManifest.xml:10:9-35
+	android:theme
+		ADDED from C:\Users\Trump\Android_CODE\perfect attempts\best\UCFLive\app\src\main\AndroidManifest.xml:14:9-40
+activity#com.lb.UCFKnightsLive.data.SplashActivity
+ADDED from C:\Users\Trump\Android_CODE\perfect attempts\best\UCFLive\app\src\main\AndroidManifest.xml:15:9-23:20
+	android:theme
+		ADDED from C:\Users\Trump\Android_CODE\perfect attempts\best\UCFLive\app\src\main\AndroidManifest.xml:17:13-47
+	android:name
+		ADDED from C:\Users\Trump\Android_CODE\perfect attempts\best\UCFLive\app\src\main\AndroidManifest.xml:16:13-43
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Trump\Android_CODE\perfect attempts\best\UCFLive\app\src\main\AndroidManifest.xml:18:13-22:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Trump\Android_CODE\perfect attempts\best\UCFLive\app\src\main\AndroidManifest.xml:19:17-69
+	android:name
+		ADDED from C:\Users\Trump\Android_CODE\perfect attempts\best\UCFLive\app\src\main\AndroidManifest.xml:19:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Trump\Android_CODE\perfect attempts\best\UCFLive\app\src\main\AndroidManifest.xml:21:17-77
+	android:name
+		ADDED from C:\Users\Trump\Android_CODE\perfect attempts\best\UCFLive\app\src\main\AndroidManifest.xml:21:27-74
+activity#com.lb.UCFKnightsLive.data.MainActivity
+ADDED from C:\Users\Trump\Android_CODE\perfect attempts\best\UCFLive\app\src\main\AndroidManifest.xml:24:9-30:20
+	android:name
+		ADDED from C:\Users\Trump\Android_CODE\perfect attempts\best\UCFLive\app\src\main\AndroidManifest.xml:24:19-47
+activity#com.lb.UCFKnightsLive.data.DetailActivity
+ADDED from C:\Users\Trump\Android_CODE\perfect attempts\best\UCFLive\app\src\main\AndroidManifest.xml:31:9-37:20
+	android:parentActivityName
+		ADDED from C:\Users\Trump\Android_CODE\perfect attempts\best\UCFLive\app\src\main\AndroidManifest.xml:33:13-55
+	android:name
+		ADDED from C:\Users\Trump\Android_CODE\perfect attempts\best\UCFLive\app\src\main\AndroidManifest.xml:32:13-43
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from C:\Users\Trump\Android_CODE\perfect attempts\best\UCFLive\app\src\main\AndroidManifest.xml:34:13-36:75
+	android:value
+		ADDED from C:\Users\Trump\Android_CODE\perfect attempts\best\UCFLive\app\src\main\AndroidManifest.xml:36:17-72
+	android:name
+		ADDED from C:\Users\Trump\Android_CODE\perfect attempts\best\UCFLive\app\src\main\AndroidManifest.xml:35:17-63
+activity#com.lb.UCFKnightsLive.data.SigninActivity
+ADDED from C:\Users\Trump\Android_CODE\perfect attempts\best\UCFLive\app\src\main\AndroidManifest.xml:38:9-45:20
+	android:parentActivityName
+		ADDED from C:\Users\Trump\Android_CODE\perfect attempts\best\UCFLive\app\src\main\AndroidManifest.xml:41:13-55
+	android:label
+		ADDED from C:\Users\Trump\Android_CODE\perfect attempts\best\UCFLive\app\src\main\AndroidManifest.xml:40:13-58
+	android:name
+		ADDED from C:\Users\Trump\Android_CODE\perfect attempts\best\UCFLive\app\src\main\AndroidManifest.xml:39:13-43
+activity#com.lb.UCFKnightsLive.data.PrefsActivity
+ADDED from C:\Users\Trump\Android_CODE\perfect attempts\best\UCFLive\app\src\main\AndroidManifest.xml:46:9-52:20
+	android:parentActivityName
+		ADDED from C:\Users\Trump\Android_CODE\perfect attempts\best\UCFLive\app\src\main\AndroidManifest.xml:48:13-55
+	android:name
+		ADDED from C:\Users\Trump\Android_CODE\perfect attempts\best\UCFLive\app\src\main\AndroidManifest.xml:47:13-42
+uses-sdk
+INJECTED from C:\Users\Trump\Android_CODE\perfect attempts\best\UCFLive\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Trump\Android_CODE\perfect attempts\best\UCFLive\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Trump\Android_CODE\perfect attempts\best\UCFLive\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\c584e55166d2bdb8ca632471053d478c\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\c584e55166d2bdb8ca632471053d478c\AndroidManifest.xml:5:5-7:41
+MERGED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\extensions-1.1.1.aar\c28ca7520c40d901b81b2f10fd7e0f53\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\extensions-1.1.1.aar\c28ca7520c40d901b81b2f10fd7e0f53\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\0521be7866e7b5595b2603dfb02864ad\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\0521be7866e7b5595b2603dfb02864ad\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\4b35ab5a4da0ba4a48b6715f32561a31\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\4b35ab5a4da0ba4a48b6715f32561a31\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\c9dbc4737e7eee16e91a6d11abd5c847\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\c9dbc4737e7eee16e91a6d11abd5c847\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\284687622f67d35588a70a8f122d57ab\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\284687622f67d35588a70a8f122d57ab\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\9ea34d8857bc2d10beb8c6ecfdcc6444\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\9ea34d8857bc2d10beb8c6ecfdcc6444\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\0adf83d54895017678d419e9be642861\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\0adf83d54895017678d419e9be642861\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\28cfa6a1006c2a5b0270f43d4b6bfdb1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\28cfa6a1006c2a5b0270f43d4b6bfdb1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\4a3586e9e92401955e9bc4b005da3d5c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\4a3586e9e92401955e9bc4b005da3d5c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\5097ec91758f79f4588e3ea79bdb884d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\5097ec91758f79f4588e3ea79bdb884d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\28cd408bc2b533c809ee3dc66054b2f2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\28cd408bc2b533c809ee3dc66054b2f2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\3481e015a7aec6bdea8ad15a6106623b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\3481e015a7aec6bdea8ad15a6106623b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\f4b0d751510755530b8365924bd9fdaa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\f4b0d751510755530b8365924bd9fdaa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\f43f45a732490932a4e0aab7c8fcb0be\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\f43f45a732490932a4e0aab7c8fcb0be\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\680878effbbe157c810a12759ce456ce\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\680878effbbe157c810a12759ce456ce\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\2b328f6f61b38e41b45b7857761e8b32\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\2b328f6f61b38e41b45b7857761e8b32\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\52548581bd18b4b54dc6dbab5b4379d1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\52548581bd18b4b54dc6dbab5b4379d1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\21ebca05fcfc60521b9f896cf001efce\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\21ebca05fcfc60521b9f896cf001efce\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\6cfb5b5c0a4ef377b6515ec0954d1706\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\6cfb5b5c0a4ef377b6515ec0954d1706\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\a5575bba2c4d4907850b3f952e9b7596\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\a5575bba2c4d4907850b3f952e9b7596\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\a75ebcbe2fbdf1f4e75d891d300c99b8\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\a75ebcbe2fbdf1f4e75d891d300c99b8\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\09e9b771ac16016985cdc355fdbdb342\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\09e9b771ac16016985cdc355fdbdb342\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\330971b8902ca707ac022e913581c71c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\330971b8902ca707ac022e913581c71c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\025f8547711c86232a72cdb185933027\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\025f8547711c86232a72cdb185933027\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\9daee60925ddb6c9e0891005d527ba2d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\9daee60925ddb6c9e0891005d527ba2d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\fa2b412a710ec19e5f785e43e5011406\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\fa2b412a710ec19e5f785e43e5011406\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\5f582c0b8f10746ba759fab81e466598\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\5f582c0b8f10746ba759fab81e466598\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\92fdd45d823cae4ad9090908bd87cc70\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\92fdd45d823cae4ad9090908bd87cc70\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\eb25f0e8a61117710eee014b8e5a7501\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\eb25f0e8a61117710eee014b8e5a7501\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\e70e98e0ebad0b37bd0a435b1c9a6c74\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\e70e98e0ebad0b37bd0a435b1c9a6c74\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\de208e69c96f4cdc47e0d79c12694dec\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\de208e69c96f4cdc47e0d79c12694dec\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\Trump\Android_CODE\perfect attempts\best\UCFLive\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Trump\Android_CODE\perfect attempts\best\UCFLive\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Trump\Android_CODE\perfect attempts\best\UCFLive\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Trump\Android_CODE\perfect attempts\best\UCFLive\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Trump\Android_CODE\perfect attempts\best\UCFLive\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Trump\Android_CODE\perfect attempts\best\UCFLive\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Trump\Android_CODE\perfect attempts\best\UCFLive\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Trump\Android_CODE\perfect attempts\best\UCFLive\app\src\main\AndroidManifest.xml
+provider#android.arch.lifecycle.ProcessLifecycleOwnerInitializer
+ADDED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\extensions-1.1.1.aar\c28ca7520c40d901b81b2f10fd7e0f53\AndroidManifest.xml:23:9-27:43
+	android:authorities
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\extensions-1.1.1.aar\c28ca7520c40d901b81b2f10fd7e0f53\AndroidManifest.xml:25:13-68
+	android:multiprocess
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\extensions-1.1.1.aar\c28ca7520c40d901b81b2f10fd7e0f53\AndroidManifest.xml:27:13-40
+	android:exported
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\extensions-1.1.1.aar\c28ca7520c40d901b81b2f10fd7e0f53\AndroidManifest.xml:26:13-37
+	android:name
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\extensions-1.1.1.aar\c28ca7520c40d901b81b2f10fd7e0f53\AndroidManifest.xml:24:13-83

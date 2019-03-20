@@ -1,0 +1,13 @@
+<resources>
+
+    <string name="choose_a_category2">Choose an Archived category</string>
+    <string-array
+        name="categories2">
+        <item>Football Rallies</item>
+        <item>Football Games</item>
+        <item>Courses</item>
+        <item>Chess Club</item>
+        <item>Award Ceremonies</item>
+    </string-array>
+
+</resources>
