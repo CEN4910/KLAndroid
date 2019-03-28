@@ -50,6 +50,7 @@ CREATE TABLE IF NOT EXISTS `knightslivedb`.`video` (
   `picture` BLOB NULL DEFAULT NULL,
   `title` VARCHAR(255) NOT NULL,
   `description` TEXT NULL DEFAULT NULL,
+  `status` TEXT NULL DEFAULT NULL,
   `release_year` YEAR(4) NULL DEFAULT NULL,
   `duration` TINYINT(3) UNSIGNED NOT NULL DEFAULT '3',
   `length` SMALLINT(5) UNSIGNED NULL DEFAULT NULL,
@@ -60,5 +61,52 @@ CREATE TABLE IF NOT EXISTS `knightslivedb`.`video` (
 ENGINE = InnoDB
 DEFAULT CHARACTER SET = utf8mb4
 COLLATE = utf8mb4_0900_ai_ci;
+
+
+
+INSERT INTO `knightslivedb`.`archive` (`host_title`) VALUES ('President');
+INSERT INTO `knightslivedb`.`archive` (`host_first_name`) VALUES ('Brad');
+INSERT INTO `knightslivedb`.`archive` (`host_last_name`) VALUES ('Pitt');
+INSERT INTO `knightslivedb`.`archive` (`email`) VALUES ('bpitt@knights.ucf.edu');
+INSERT INTO `knightslivedb`.`archive` (`active`) VALUES ('1');
+INSERT INTO `knightslivedb`.`archive` (`username`) VALUES ('bpitt');
+INSERT INTO `knightslivedb`.`archive` (`password`) VALUES ('password2');
+
+INSERT INTO `knightslivedb`.`video` (`website_link`) VALUES ('https://www.youtube.com/watch?v=4F6mTzoKEkY');
+INSERT INTO `knightslivedb`.`video` (`create_date`) VALUES ('2019-02-11');
+INSERT INTO `knightslivedb`.`video` (`event_type`) VALUES ('Football Game');
+INSERT INTO `knightslivedb`.`video` (`picture`) VALUES ('');
+INSERT INTO `knightslivedb`.`video` (`title`) VALUES ('UCF Knights Football Game');
+INSERT INTO `knightslivedb`.`video` (`description`) VALUES (' UCF Knights Football Game Knights vs Bulls');
+INSERT INTO `knightslivedb`.`video` (`release_year`) VALUES ('2019');
+INSERT INTO `knightslivedb`.`video` (`duration`) VALUES ('1');
+INSERT INTO `knightslivedb`.`video` (`length`) VALUES ('1');
+INSERT INTO `knightslivedb`.`video` (`rating`) VALUES ('*****');
+INSERT INTO `knightslivedb`.`video` (`status`) VALUES ('live');
+INSERT INTO `knightslivedb`.`video` (`private`) VALUES ('yes');
+-------------------
+INSERT INTO `knightslivedb`.`archive` (`host_title`) VALUES ('Director of IT');
+INSERT INTO `knightslivedb`.`archive` (`host_first_name`) VALUES ('Jane');
+INSERT INTO `knightslivedb`.`archive` (`host_last_name`) VALUES ('Seymour');
+INSERT INTO `knightslivedb`.`archive` (`email`) VALUES ('jSeymour@knights.ucf.edu');
+INSERT INTO `knightslivedb`.`archive` (`active`) VALUES ('1');
+INSERT INTO `knightslivedb`.`archive` (`username`) VALUES ('jseymour');
+INSERT INTO `knightslivedb`.`archive` (`password`) VALUES ('password1');
+
+INSERT INTO `knightslivedb`.`video` (`website_link`) VALUES ('https://www.youtube.com/watch?v=4F6mTzoKEkY');
+INSERT INTO `knightslivedb`.`video` (`create_date`) VALUES ('2019-02-10');
+INSERT INTO `knightslivedb`.`video` (`event_type`) VALUES ('Football Rally');
+INSERT INTO `knightslivedb`.`video` (`picture`) VALUES ('');
+INSERT INTO `knightslivedb`.`video` (`title`) VALUES ('UCF Knights Football Rally');
+INSERT INTO `knightslivedb`.`video` (`description`) VALUES (' UCF Knights Football Rally before the Knights vs Bulls');
+INSERT INTO `knightslivedb`.`video` (`release_year`) VALUES ('2019');
+INSERT INTO `knightslivedb`.`video` (`duration`) VALUES ('1');
+INSERT INTO `knightslivedb`.`video` (`length`) VALUES ('1');
+INSERT INTO `knightslivedb`.`video` (`rating`) VALUES ('*****');
+INSERT INTO `knightslivedb`.`video` (`status`) VALUES ('archive');
+INSERT INTO `knightslivedb`.`video` (`private`) VALUES ('no');
+
+
+
 
 
