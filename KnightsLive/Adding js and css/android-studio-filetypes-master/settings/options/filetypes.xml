@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application>
+  <component name="FileTypeManager" version="11">
+    <ignoreFiles list="CVS;SCCS;RCS;rcs;.DS_Store;.svn;.pyc;.pyo;*.pyc;*.pyo;.git;*.hprof;_svn;.hg;*.lib;*~;__pycache__;.bundle;*.rbc;" />
+    <extensionMap>
+      <mapping ext="css" type="CSS" />
+      <mapping ext="js" type="JavaScript" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping ext="mo" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>
+
