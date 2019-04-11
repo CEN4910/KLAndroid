@@ -19,6 +19,11 @@ import com.lb.UCFKnightsLive.data.database.DataSource;
 import com.lb.UCFKnightsLive.data.model.DataItem;
 import com.lb.UCFKnightsLive.data.sample.SampleDataProvider;
 import java.util.List;
+import android.support.design.widget.FloatingActionButton;
+import android.support.design.widget.Snackbar;
+import android.support.design.widget.NavigationView;
+import android.support.v4.view.GravityCompat;
+import android.support.v7.widget.Toolbar;
 
 //drawer layout
 public class MainActivity extends AppCompatActivity {

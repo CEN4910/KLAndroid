@@ -1,0 +1,9 @@
+com.intellij
+Assets Compressor
+Base64 for IDEA and Storm
+BashSupport
+net.nicoulaj.idea.markdown
+im.jeanfrancois.ideaplugins.ideafullscreen
+com.karateca.jstoolbox
+PluginUpdateNotifier
+RESTClient

@@ -1,20 +1,40 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\Trump\Android_CODE\perfect attempts\best\UCFLive\app\src\main\AndroidManifest.xml:2:1-55:12
-INJECTED from C:\Users\Trump\Android_CODE\perfect attempts\best\UCFLive\app\src\main\AndroidManifest.xml:2:1-55:12
-INJECTED from C:\Users\Trump\Android_CODE\perfect attempts\best\UCFLive\app\src\main\AndroidManifest.xml:2:1-55:12
-INJECTED from C:\Users\Trump\Android_CODE\perfect attempts\best\UCFLive\app\src\main\AndroidManifest.xml:2:1-55:12
+ADDED from C:\Users\Trump\Android_CODE\Final 2\UCFLive\app\src\main\AndroidManifest.xml:2:1-87:12
+INJECTED from C:\Users\Trump\Android_CODE\Final 2\UCFLive\app\src\main\AndroidManifest.xml:2:1-87:12
+INJECTED from C:\Users\Trump\Android_CODE\Final 2\UCFLive\app\src\main\AndroidManifest.xml:2:1-87:12
+INJECTED from C:\Users\Trump\Android_CODE\Final 2\UCFLive\app\src\main\AndroidManifest.xml:2:1-87:12
 MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\c584e55166d2bdb8ca632471053d478c\AndroidManifest.xml:2:1-11:12
 MERGED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\extensions-1.1.1.aar\c28ca7520c40d901b81b2f10fd7e0f53\AndroidManifest.xml:17:1-30:12
 MERGED from [com.android.support:design:28.0.0] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\0521be7866e7b5595b2603dfb02864ad\AndroidManifest.xml:17:1-24:12
+MERGED from [org.jitsi.react:jitsi-meet-sdk:1.21.0] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\jitsi-meet-sdk-1.21.0.aar\2037245ac2a67941a775384dd1483d09\AndroidManifest.xml:2:1-45:12
+MERGED from [com.facebook.react:react-native-background-timer:2.0.0-jitsi-3] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\react-native-background-timer-2.0.0-jitsi-3.aar\8ed59a43dd1a9b57a0a447986e19861f\AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.react:react-native-calendar-events:1.6.3-jitsi-1] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\react-native-calendar-events-1.6.3-jitsi-1.aar\238fe54760fad01757bab4420ed187c5\AndroidManifest.xml:2:1-14:12
+MERGED from [com.facebook.react:react-native-fast-image:4.0.14-jitsi-1] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\react-native-fast-image-4.0.14-jitsi-1.aar\44e62f3e9bcd0b02b5254c6b44345f84\AndroidManifest.xml:2:1-22:12
+MERGED from [com.facebook.react:react-native-google-signin:1.0.0-rc6-jitsi-1] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\react-native-google-signin-1.0.0-rc6-jitsi-1.aar\9ca4535a2e7c80187b30504397334687\AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.react:react-native-immersive:1.1.0-jitsi-4] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\react-native-immersive-1.1.0-jitsi-4.aar\9456dffb72e14c6f5a6603b75b32b1b6\AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.react:react-native-keep-awake:2.0.6-jitsi-3] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\react-native-keep-awake-2.0.6-jitsi-3.aar\6adfe0ba31455cc149f57bae2d034b1a\AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.react:react-native-linear-gradient:2.4.0-jitsi-1] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\react-native-linear-gradient-2.4.0-jitsi-1.aar\fa34016a9120351ce1e88ef5d8a2cee4\AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.react:react-native-sound:0.10.9-jitsi-2] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\react-native-sound-0.10.9-jitsi-2.aar\4b232294f7a33cbc0898358de4dba976\AndroidManifest.xml:2:1-12:12
+MERGED from [com.facebook.react:react-native-vector-icons:6.0.2-jitsi-3] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\react-native-vector-icons-6.0.2-jitsi-3.aar\080f2fce4bf22b7d81881353bdb87434\AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.react:react-native-webrtc:1.67.1-jitsi-9] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\react-native-webrtc-1.67.1-jitsi-9.aar\fafad063ecbd69279489f17109f628e5\AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.react:react-native:0.57.6] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\react-native-0.57.6.aar\ff843f920a10b7ab042ce9a1bcd88e77\AndroidManifest.xml:2:1-15:12
 MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\4b35ab5a4da0ba4a48b6715f32561a31\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\c9dbc4737e7eee16e91a6d11abd5c847\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\play-services-auth-16.0.1.aar\934768df54ad1aa6b3edf1dd21de0e54\AndroidManifest.xml:17:1-39:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:16.0.0] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\play-services-auth-api-phone-16.0.0.aar\f235c5634e9931279a10b330c1fe1f29\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-auth-base:16.0.0] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\play-services-auth-base-16.0.0.aar\ed5dcb32a2c74e24604a2a6b323c7bcb\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\f292c37a798d67fc655011515d831927\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\a3b13f3d2ba3594c1f304705b048466f\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\35c1be413027e8dec9d71126497498e5\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0.aar\52a34ce70ba1bcb8ba0126cb7c27edbd\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\284687622f67d35588a70a8f122d57ab\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\9ea34d8857bc2d10beb8c6ecfdcc6444\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\0adf83d54895017678d419e9be642861\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\28cfa6a1006c2a5b0270f43d4b6bfdb1\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\4a3586e9e92401955e9bc4b005da3d5c\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:transition:28.0.0] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\5097ec91758f79f4588e3ea79bdb884d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\2436d47a82f03ccdad4f46720a737f63\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:loader:28.0.0] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\28cd408bc2b533c809ee3dc66054b2f2\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\3481e015a7aec6bdea8ad15a6106623b\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\f4b0d751510755530b8365924bd9fdaa\AndroidManifest.xml:17:1-22:12
@@ -36,119 +56,215 @@ MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Trump\.gradle\cac
 MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\eb25f0e8a61117710eee014b8e5a7501\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:print:28.0.0] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\e70e98e0ebad0b37bd0a435b1c9a6c74\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\de208e69c96f4cdc47e0d79c12694dec\AndroidManifest.xml:17:1-22:12
-INJECTED from C:\Users\Trump\Android_CODE\perfect attempts\best\UCFLive\app\src\main\AndroidManifest.xml:2:1-55:12
-INJECTED from C:\Users\Trump\Android_CODE\perfect attempts\best\UCFLive\app\src\main\AndroidManifest.xml:2:1-55:12
-INJECTED from C:\Users\Trump\Android_CODE\perfect attempts\best\UCFLive\app\src\main\AndroidManifest.xml:2:1-55:12
+MERGED from [org.webkit:android-jsc:r224109] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\android-jsc-r224109.aar\328060be545c4aaae1a0c82ed9362d95\AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.fresco:fresco:1.10.0] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\fresco-1.10.0.aar\173a22d0c8039385407029ee27d0929b\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\imagepipeline-okhttp3-1.10.0.aar\b5b9cfca1fd8f506447a9fbff30d0808\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:1.10.0] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\drawee-1.10.0.aar\6b07d54e5aef643b695e1c9b9f33e804\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\imagepipeline-1.10.0.aar\9b2786b5d0a7c7cd8cc3954268771ae9\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\imagepipeline-base-1.10.0.aar\1a6bbd8fb03ba4786f282884c563c315\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.5.1] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\soloader-0.5.1.aar\01ecfae142b047f91046660b595faa79\AndroidManifest.xml:2:1-13:12
+MERGED from [com.facebook.fresco:fbcore:1.10.0] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\fbcore-1.10.0.aar\04cb981f9af116507c6547a33a9eacc7\AndroidManifest.xml:2:1-9:12
+INJECTED from C:\Users\Trump\Android_CODE\Final 2\UCFLive\app\src\main\AndroidManifest.xml:2:1-87:12
+INJECTED from C:\Users\Trump\Android_CODE\Final 2\UCFLive\app\src\main\AndroidManifest.xml:2:1-87:12
+INJECTED from C:\Users\Trump\Android_CODE\Final 2\UCFLive\app\src\main\AndroidManifest.xml:2:1-87:12
 	package
-		ADDED from C:\Users\Trump\Android_CODE\perfect attempts\best\UCFLive\app\src\main\AndroidManifest.xml:3:5-41
-		INJECTED from C:\Users\Trump\Android_CODE\perfect attempts\best\UCFLive\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Trump\Android_CODE\perfect attempts\best\UCFLive\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Trump\Android_CODE\Final 2\UCFLive\app\src\main\AndroidManifest.xml:4:5-41
+		INJECTED from C:\Users\Trump\Android_CODE\Final 2\UCFLive\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Trump\Android_CODE\Final 2\UCFLive\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from C:\Users\Trump\Android_CODE\perfect attempts\best\UCFLive\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Trump\Android_CODE\perfect attempts\best\UCFLive\app\src\main\AndroidManifest.xml:2:1-55:12
-		INJECTED from C:\Users\Trump\Android_CODE\perfect attempts\best\UCFLive\app\src\main\AndroidManifest.xml
-	android:versionCode
-		INJECTED from C:\Users\Trump\Android_CODE\perfect attempts\best\UCFLive\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Trump\Android_CODE\perfect attempts\best\UCFLive\app\src\main\AndroidManifest.xml:2:1-55:12
-		INJECTED from C:\Users\Trump\Android_CODE\perfect attempts\best\UCFLive\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Trump\Android_CODE\Final 2\UCFLive\app\src\main\AndroidManifest.xml:6:5-30
+		INJECTED from C:\Users\Trump\Android_CODE\Final 2\UCFLive\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Trump\Android_CODE\Final 2\UCFLive\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\Trump\Android_CODE\Final 2\UCFLive\app\src\main\AndroidManifest.xml:3:5-51
 	xmlns:android
-		ADDED from C:\Users\Trump\Android_CODE\perfect attempts\best\UCFLive\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from C:\Users\Trump\Android_CODE\Final 2\UCFLive\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from C:\Users\Trump\Android_CODE\Final 2\UCFLive\app\src\main\AndroidManifest.xml:5:5-28
+		INJECTED from C:\Users\Trump\Android_CODE\Final 2\UCFLive\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Trump\Android_CODE\Final 2\UCFLive\app\src\main\AndroidManifest.xml
 uses-permission#android.permission.GET_ACCOUNTS
-ADDED from C:\Users\Trump\Android_CODE\perfect attempts\best\UCFLive\app\src\main\AndroidManifest.xml:5:5-71
+ADDED from C:\Users\Trump\Android_CODE\Final 2\UCFLive\app\src\main\AndroidManifest.xml:8:5-71
 	android:name
-		ADDED from C:\Users\Trump\Android_CODE\perfect attempts\best\UCFLive\app\src\main\AndroidManifest.xml:5:22-68
+		ADDED from C:\Users\Trump\Android_CODE\Final 2\UCFLive\app\src\main\AndroidManifest.xml:8:22-68
 uses-permission#android.permission.READ_PROFILE
-ADDED from C:\Users\Trump\Android_CODE\perfect attempts\best\UCFLive\app\src\main\AndroidManifest.xml:6:5-71
+ADDED from C:\Users\Trump\Android_CODE\Final 2\UCFLive\app\src\main\AndroidManifest.xml:9:5-71
 	android:name
-		ADDED from C:\Users\Trump\Android_CODE\perfect attempts\best\UCFLive\app\src\main\AndroidManifest.xml:6:22-68
+		ADDED from C:\Users\Trump\Android_CODE\Final 2\UCFLive\app\src\main\AndroidManifest.xml:9:22-68
 uses-permission#android.permission.READ_CONTACTS
-ADDED from C:\Users\Trump\Android_CODE\perfect attempts\best\UCFLive\app\src\main\AndroidManifest.xml:7:5-72
+ADDED from C:\Users\Trump\Android_CODE\Final 2\UCFLive\app\src\main\AndroidManifest.xml:10:5-72
 	android:name
-		ADDED from C:\Users\Trump\Android_CODE\perfect attempts\best\UCFLive\app\src\main\AndroidManifest.xml:7:22-69
+		ADDED from C:\Users\Trump\Android_CODE\Final 2\UCFLive\app\src\main\AndroidManifest.xml:10:22-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Trump\Android_CODE\Final 2\UCFLive\app\src\main\AndroidManifest.xml:11:5-67
+MERGED from [org.jitsi.react:jitsi-meet-sdk:1.21.0] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\jitsi-meet-sdk-1.21.0.aar\2037245ac2a67941a775384dd1483d09\AndroidManifest.xml:12:5-67
+MERGED from [org.jitsi.react:jitsi-meet-sdk:1.21.0] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\jitsi-meet-sdk-1.21.0.aar\2037245ac2a67941a775384dd1483d09\AndroidManifest.xml:12:5-67
+	android:name
+		ADDED from C:\Users\Trump\Android_CODE\Final 2\UCFLive\app\src\main\AndroidManifest.xml:11:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\Trump\Android_CODE\Final 2\UCFLive\app\src\main\AndroidManifest.xml:12:5-79
+MERGED from [org.jitsi.react:jitsi-meet-sdk:1.21.0] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\jitsi-meet-sdk-1.21.0.aar\2037245ac2a67941a775384dd1483d09\AndroidManifest.xml:9:5-79
+MERGED from [org.jitsi.react:jitsi-meet-sdk:1.21.0] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\jitsi-meet-sdk-1.21.0.aar\2037245ac2a67941a775384dd1483d09\AndroidManifest.xml:9:5-79
+	android:name
+		ADDED from C:\Users\Trump\Android_CODE\Final 2\UCFLive\app\src\main\AndroidManifest.xml:12:22-76
 application
-ADDED from C:\Users\Trump\Android_CODE\perfect attempts\best\UCFLive\app\src\main\AndroidManifest.xml:9:5-53:19
+ADDED from C:\Users\Trump\Android_CODE\Final 2\UCFLive\app\src\main\AndroidManifest.xml:14:5-85:19
 MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\c584e55166d2bdb8ca632471053d478c\AndroidManifest.xml:9:5-20
 MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\c584e55166d2bdb8ca632471053d478c\AndroidManifest.xml:9:5-20
 MERGED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\extensions-1.1.1.aar\c28ca7520c40d901b81b2f10fd7e0f53\AndroidManifest.xml:22:5-28:19
 MERGED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\extensions-1.1.1.aar\c28ca7520c40d901b81b2f10fd7e0f53\AndroidManifest.xml:22:5-28:19
 MERGED from [com.android.support:design:28.0.0] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\0521be7866e7b5595b2603dfb02864ad\AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:design:28.0.0] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\0521be7866e7b5595b2603dfb02864ad\AndroidManifest.xml:22:5-20
+MERGED from [org.jitsi.react:jitsi-meet-sdk:1.21.0] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\jitsi-meet-sdk-1.21.0.aar\2037245ac2a67941a775384dd1483d09\AndroidManifest.xml:30:5-43:19
+MERGED from [org.jitsi.react:jitsi-meet-sdk:1.21.0] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\jitsi-meet-sdk-1.21.0.aar\2037245ac2a67941a775384dd1483d09\AndroidManifest.xml:30:5-43:19
+MERGED from [com.facebook.react:react-native-fast-image:4.0.14-jitsi-1] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\react-native-fast-image-4.0.14-jitsi-1.aar\44e62f3e9bcd0b02b5254c6b44345f84\AndroidManifest.xml:12:5-20:19
+MERGED from [com.facebook.react:react-native-fast-image:4.0.14-jitsi-1] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\react-native-fast-image-4.0.14-jitsi-1.aar\44e62f3e9bcd0b02b5254c6b44345f84\AndroidManifest.xml:12:5-20:19
+MERGED from [com.facebook.react:react-native:0.57.6] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\react-native-0.57.6.aar\ff843f920a10b7ab042ce9a1bcd88e77\AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.react:react-native:0.57.6] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\react-native-0.57.6.aar\ff843f920a10b7ab042ce9a1bcd88e77\AndroidManifest.xml:13:5-20
+MERGED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\play-services-auth-16.0.1.aar\934768df54ad1aa6b3edf1dd21de0e54\AndroidManifest.xml:22:5-37:19
+MERGED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\play-services-auth-16.0.1.aar\934768df54ad1aa6b3edf1dd21de0e54\AndroidManifest.xml:22:5-37:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\f292c37a798d67fc655011515d831927\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\f292c37a798d67fc655011515d831927\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\a3b13f3d2ba3594c1f304705b048466f\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\a3b13f3d2ba3594c1f304705b048466f\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\35c1be413027e8dec9d71126497498e5\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\35c1be413027e8dec9d71126497498e5\AndroidManifest.xml:22:5-26:19
 MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\6cfb5b5c0a4ef377b6515ec0954d1706\AndroidManifest.xml:22:5-94
 MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\6cfb5b5c0a4ef377b6515ec0954d1706\AndroidManifest.xml:22:5-94
 MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\9daee60925ddb6c9e0891005d527ba2d\AndroidManifest.xml:22:5-23:19
 MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\9daee60925ddb6c9e0891005d527ba2d\AndroidManifest.xml:22:5-23:19
+MERGED from [com.facebook.soloader:soloader:0.5.1] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\soloader-0.5.1.aar\01ecfae142b047f91046660b595faa79\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.5.1] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\soloader-0.5.1.aar\01ecfae142b047f91046660b595faa79\AndroidManifest.xml:11:5-20
 	android:appComponentFactory
 		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\6cfb5b5c0a4ef377b6515ec0954d1706\AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from [org.jitsi.react:jitsi-meet-sdk:1.21.0] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\jitsi-meet-sdk-1.21.0.aar\2037245ac2a67941a775384dd1483d09\AndroidManifest.xml:32:9-41
 	android:supportsRtl
-		ADDED from C:\Users\Trump\Android_CODE\perfect attempts\best\UCFLive\app\src\main\AndroidManifest.xml:13:9-35
-	android:label
-		ADDED from C:\Users\Trump\Android_CODE\perfect attempts\best\UCFLive\app\src\main\AndroidManifest.xml:12:9-44
+		ADDED from C:\Users\Trump\Android_CODE\Final 2\UCFLive\app\src\main\AndroidManifest.xml:17:9-35
+	tools:ignore
+		ADDED from C:\Users\Trump\Android_CODE\Final 2\UCFLive\app\src\main\AndroidManifest.xml:20:9-48
+	android:roundIcon
+		ADDED from C:\Users\Trump\Android_CODE\Final 2\UCFLive\app\src\main\AndroidManifest.xml:19:9-54
 	android:icon
-		ADDED from C:\Users\Trump\Android_CODE\perfect attempts\best\UCFLive\app\src\main\AndroidManifest.xml:11:9-43
+		ADDED from C:\Users\Trump\Android_CODE\Final 2\UCFLive\app\src\main\AndroidManifest.xml:16:9-43
 	android:allowBackup
-		ADDED from C:\Users\Trump\Android_CODE\perfect attempts\best\UCFLive\app\src\main\AndroidManifest.xml:10:9-35
+		ADDED from C:\Users\Trump\Android_CODE\Final 2\UCFLive\app\src\main\AndroidManifest.xml:15:9-35
 	android:theme
-		ADDED from C:\Users\Trump\Android_CODE\perfect attempts\best\UCFLive\app\src\main\AndroidManifest.xml:14:9-40
+		ADDED from C:\Users\Trump\Android_CODE\Final 2\UCFLive\app\src\main\AndroidManifest.xml:18:9-40
+	android:usesCleartextTraffic
+		ADDED from C:\Users\Trump\Android_CODE\Final 2\UCFLive\app\src\main\AndroidManifest.xml:21:9-44
+meta-data#com.google.android.actions
+ADDED from C:\Users\Trump\Android_CODE\Final 2\UCFLive\app\src\main\AndroidManifest.xml:22:9-24:62
+	android:resource
+		ADDED from C:\Users\Trump\Android_CODE\Final 2\UCFLive\app\src\main\AndroidManifest.xml:24:13-60
+	android:name
+		ADDED from C:\Users\Trump\Android_CODE\Final 2\UCFLive\app\src\main\AndroidManifest.xml:23:13-54
 activity#com.lb.UCFKnightsLive.data.SplashActivity
-ADDED from C:\Users\Trump\Android_CODE\perfect attempts\best\UCFLive\app\src\main\AndroidManifest.xml:15:9-23:20
+ADDED from C:\Users\Trump\Android_CODE\Final 2\UCFLive\app\src\main\AndroidManifest.xml:27:9-35:20
 	android:theme
-		ADDED from C:\Users\Trump\Android_CODE\perfect attempts\best\UCFLive\app\src\main\AndroidManifest.xml:17:13-47
+		ADDED from C:\Users\Trump\Android_CODE\Final 2\UCFLive\app\src\main\AndroidManifest.xml:29:13-47
 	android:name
-		ADDED from C:\Users\Trump\Android_CODE\perfect attempts\best\UCFLive\app\src\main\AndroidManifest.xml:16:13-43
+		ADDED from C:\Users\Trump\Android_CODE\Final 2\UCFLive\app\src\main\AndroidManifest.xml:28:13-43
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\Trump\Android_CODE\perfect attempts\best\UCFLive\app\src\main\AndroidManifest.xml:18:13-22:29
+ADDED from C:\Users\Trump\Android_CODE\Final 2\UCFLive\app\src\main\AndroidManifest.xml:30:13-34:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\Trump\Android_CODE\perfect attempts\best\UCFLive\app\src\main\AndroidManifest.xml:19:17-69
+ADDED from C:\Users\Trump\Android_CODE\Final 2\UCFLive\app\src\main\AndroidManifest.xml:31:17-69
 	android:name
-		ADDED from C:\Users\Trump\Android_CODE\perfect attempts\best\UCFLive\app\src\main\AndroidManifest.xml:19:25-66
+		ADDED from C:\Users\Trump\Android_CODE\Final 2\UCFLive\app\src\main\AndroidManifest.xml:31:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\Trump\Android_CODE\perfect attempts\best\UCFLive\app\src\main\AndroidManifest.xml:21:17-77
+ADDED from C:\Users\Trump\Android_CODE\Final 2\UCFLive\app\src\main\AndroidManifest.xml:33:17-77
 	android:name
-		ADDED from C:\Users\Trump\Android_CODE\perfect attempts\best\UCFLive\app\src\main\AndroidManifest.xml:21:27-74
+		ADDED from C:\Users\Trump\Android_CODE\Final 2\UCFLive\app\src\main\AndroidManifest.xml:33:27-74
 activity#com.lb.UCFKnightsLive.data.MainActivity
-ADDED from C:\Users\Trump\Android_CODE\perfect attempts\best\UCFLive\app\src\main\AndroidManifest.xml:24:9-30:20
+ADDED from C:\Users\Trump\Android_CODE\Final 2\UCFLive\app\src\main\AndroidManifest.xml:36:9-42:20
 	android:name
-		ADDED from C:\Users\Trump\Android_CODE\perfect attempts\best\UCFLive\app\src\main\AndroidManifest.xml:24:19-47
+		ADDED from C:\Users\Trump\Android_CODE\Final 2\UCFLive\app\src\main\AndroidManifest.xml:36:19-47
 activity#com.lb.UCFKnightsLive.data.DetailActivity
-ADDED from C:\Users\Trump\Android_CODE\perfect attempts\best\UCFLive\app\src\main\AndroidManifest.xml:31:9-37:20
+ADDED from C:\Users\Trump\Android_CODE\Final 2\UCFLive\app\src\main\AndroidManifest.xml:43:9-49:20
 	android:parentActivityName
-		ADDED from C:\Users\Trump\Android_CODE\perfect attempts\best\UCFLive\app\src\main\AndroidManifest.xml:33:13-55
+		ADDED from C:\Users\Trump\Android_CODE\Final 2\UCFLive\app\src\main\AndroidManifest.xml:45:13-55
 	android:name
-		ADDED from C:\Users\Trump\Android_CODE\perfect attempts\best\UCFLive\app\src\main\AndroidManifest.xml:32:13-43
+		ADDED from C:\Users\Trump\Android_CODE\Final 2\UCFLive\app\src\main\AndroidManifest.xml:44:13-43
 meta-data#android.support.PARENT_ACTIVITY
-ADDED from C:\Users\Trump\Android_CODE\perfect attempts\best\UCFLive\app\src\main\AndroidManifest.xml:34:13-36:75
+ADDED from C:\Users\Trump\Android_CODE\Final 2\UCFLive\app\src\main\AndroidManifest.xml:46:13-48:75
 	android:value
-		ADDED from C:\Users\Trump\Android_CODE\perfect attempts\best\UCFLive\app\src\main\AndroidManifest.xml:36:17-72
+		ADDED from C:\Users\Trump\Android_CODE\Final 2\UCFLive\app\src\main\AndroidManifest.xml:48:17-72
 	android:name
-		ADDED from C:\Users\Trump\Android_CODE\perfect attempts\best\UCFLive\app\src\main\AndroidManifest.xml:35:17-63
+		ADDED from C:\Users\Trump\Android_CODE\Final 2\UCFLive\app\src\main\AndroidManifest.xml:47:17-63
 activity#com.lb.UCFKnightsLive.data.SigninActivity
-ADDED from C:\Users\Trump\Android_CODE\perfect attempts\best\UCFLive\app\src\main\AndroidManifest.xml:38:9-45:20
+ADDED from C:\Users\Trump\Android_CODE\Final 2\UCFLive\app\src\main\AndroidManifest.xml:50:9-57:20
 	android:parentActivityName
-		ADDED from C:\Users\Trump\Android_CODE\perfect attempts\best\UCFLive\app\src\main\AndroidManifest.xml:41:13-55
+		ADDED from C:\Users\Trump\Android_CODE\Final 2\UCFLive\app\src\main\AndroidManifest.xml:53:13-55
 	android:label
-		ADDED from C:\Users\Trump\Android_CODE\perfect attempts\best\UCFLive\app\src\main\AndroidManifest.xml:40:13-58
+		ADDED from C:\Users\Trump\Android_CODE\Final 2\UCFLive\app\src\main\AndroidManifest.xml:52:13-58
 	android:name
-		ADDED from C:\Users\Trump\Android_CODE\perfect attempts\best\UCFLive\app\src\main\AndroidManifest.xml:39:13-43
+		ADDED from C:\Users\Trump\Android_CODE\Final 2\UCFLive\app\src\main\AndroidManifest.xml:51:13-43
 activity#com.lb.UCFKnightsLive.data.PrefsActivity
-ADDED from C:\Users\Trump\Android_CODE\perfect attempts\best\UCFLive\app\src\main\AndroidManifest.xml:46:9-52:20
+ADDED from C:\Users\Trump\Android_CODE\Final 2\UCFLive\app\src\main\AndroidManifest.xml:58:9-64:20
 	android:parentActivityName
-		ADDED from C:\Users\Trump\Android_CODE\perfect attempts\best\UCFLive\app\src\main\AndroidManifest.xml:48:13-55
+		ADDED from C:\Users\Trump\Android_CODE\Final 2\UCFLive\app\src\main\AndroidManifest.xml:60:13-55
 	android:name
-		ADDED from C:\Users\Trump\Android_CODE\perfect attempts\best\UCFLive\app\src\main\AndroidManifest.xml:47:13-42
+		ADDED from C:\Users\Trump\Android_CODE\Final 2\UCFLive\app\src\main\AndroidManifest.xml:59:13-42
+activity#com.lb.UCFKnightsLive.data.Main
+ADDED from C:\Users\Trump\Android_CODE\Final 2\UCFLive\app\src\main\AndroidManifest.xml:65:9-74:20
+	android:name
+		ADDED from C:\Users\Trump\Android_CODE\Final 2\UCFLive\app\src\main\AndroidManifest.xml:66:13-33
+activity#com.lb.UCFKnightsLive.data.Jitsi
+ADDED from C:\Users\Trump\Android_CODE\Final 2\UCFLive\app\src\main\AndroidManifest.xml:75:9-84:20
+	android:name
+		ADDED from C:\Users\Trump\Android_CODE\Final 2\UCFLive\app\src\main\AndroidManifest.xml:76:13-34
 uses-sdk
-INJECTED from C:\Users\Trump\Android_CODE\perfect attempts\best\UCFLive\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from C:\Users\Trump\Android_CODE\perfect attempts\best\UCFLive\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\Trump\Android_CODE\perfect attempts\best\UCFLive\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Trump\Android_CODE\Final 2\UCFLive\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Trump\Android_CODE\Final 2\UCFLive\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Trump\Android_CODE\Final 2\UCFLive\app\src\main\AndroidManifest.xml
 MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\c584e55166d2bdb8ca632471053d478c\AndroidManifest.xml:5:5-7:41
 MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\c584e55166d2bdb8ca632471053d478c\AndroidManifest.xml:5:5-7:41
 MERGED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\extensions-1.1.1.aar\c28ca7520c40d901b81b2f10fd7e0f53\AndroidManifest.xml:20:5-44
 MERGED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\extensions-1.1.1.aar\c28ca7520c40d901b81b2f10fd7e0f53\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:design:28.0.0] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\0521be7866e7b5595b2603dfb02864ad\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:design:28.0.0] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\0521be7866e7b5595b2603dfb02864ad\AndroidManifest.xml:20:5-44
+MERGED from [org.jitsi.react:jitsi-meet-sdk:1.21.0] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\jitsi-meet-sdk-1.21.0.aar\2037245ac2a67941a775384dd1483d09\AndroidManifest.xml:5:5-7:41
+MERGED from [org.jitsi.react:jitsi-meet-sdk:1.21.0] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\jitsi-meet-sdk-1.21.0.aar\2037245ac2a67941a775384dd1483d09\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.react:react-native-background-timer:2.0.0-jitsi-3] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\react-native-background-timer-2.0.0-jitsi-3.aar\8ed59a43dd1a9b57a0a447986e19861f\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native-background-timer:2.0.0-jitsi-3] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\react-native-background-timer-2.0.0-jitsi-3.aar\8ed59a43dd1a9b57a0a447986e19861f\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native-calendar-events:1.6.3-jitsi-1] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\react-native-calendar-events-1.6.3-jitsi-1.aar\238fe54760fad01757bab4420ed187c5\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native-calendar-events:1.6.3-jitsi-1] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\react-native-calendar-events-1.6.3-jitsi-1.aar\238fe54760fad01757bab4420ed187c5\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native-fast-image:4.0.14-jitsi-1] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\react-native-fast-image-4.0.14-jitsi-1.aar\44e62f3e9bcd0b02b5254c6b44345f84\AndroidManifest.xml:8:5-10:41
+MERGED from [com.facebook.react:react-native-fast-image:4.0.14-jitsi-1] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\react-native-fast-image-4.0.14-jitsi-1.aar\44e62f3e9bcd0b02b5254c6b44345f84\AndroidManifest.xml:8:5-10:41
+MERGED from [com.facebook.react:react-native-google-signin:1.0.0-rc6-jitsi-1] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\react-native-google-signin-1.0.0-rc6-jitsi-1.aar\9ca4535a2e7c80187b30504397334687\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native-google-signin:1.0.0-rc6-jitsi-1] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\react-native-google-signin-1.0.0-rc6-jitsi-1.aar\9ca4535a2e7c80187b30504397334687\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native-immersive:1.1.0-jitsi-4] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\react-native-immersive-1.1.0-jitsi-4.aar\9456dffb72e14c6f5a6603b75b32b1b6\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native-immersive:1.1.0-jitsi-4] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\react-native-immersive-1.1.0-jitsi-4.aar\9456dffb72e14c6f5a6603b75b32b1b6\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native-keep-awake:2.0.6-jitsi-3] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\react-native-keep-awake-2.0.6-jitsi-3.aar\6adfe0ba31455cc149f57bae2d034b1a\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native-keep-awake:2.0.6-jitsi-3] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\react-native-keep-awake-2.0.6-jitsi-3.aar\6adfe0ba31455cc149f57bae2d034b1a\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native-linear-gradient:2.4.0-jitsi-1] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\react-native-linear-gradient-2.4.0-jitsi-1.aar\fa34016a9120351ce1e88ef5d8a2cee4\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native-linear-gradient:2.4.0-jitsi-1] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\react-native-linear-gradient-2.4.0-jitsi-1.aar\fa34016a9120351ce1e88ef5d8a2cee4\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native-sound:0.10.9-jitsi-2] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\react-native-sound-0.10.9-jitsi-2.aar\4b232294f7a33cbc0898358de4dba976\AndroidManifest.xml:8:5-10:41
+MERGED from [com.facebook.react:react-native-sound:0.10.9-jitsi-2] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\react-native-sound-0.10.9-jitsi-2.aar\4b232294f7a33cbc0898358de4dba976\AndroidManifest.xml:8:5-10:41
+MERGED from [com.facebook.react:react-native-vector-icons:6.0.2-jitsi-3] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\react-native-vector-icons-6.0.2-jitsi-3.aar\080f2fce4bf22b7d81881353bdb87434\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native-vector-icons:6.0.2-jitsi-3] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\react-native-vector-icons-6.0.2-jitsi-3.aar\080f2fce4bf22b7d81881353bdb87434\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native-webrtc:1.67.1-jitsi-9] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\react-native-webrtc-1.67.1-jitsi-9.aar\fafad063ecbd69279489f17109f628e5\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native-webrtc:1.67.1-jitsi-9] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\react-native-webrtc-1.67.1-jitsi-9.aar\fafad063ecbd69279489f17109f628e5\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.57.6] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\react-native-0.57.6.aar\ff843f920a10b7ab042ce9a1bcd88e77\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.57.6] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\react-native-0.57.6.aar\ff843f920a10b7ab042ce9a1bcd88e77\AndroidManifest.xml:7:5-9:41
 MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\4b35ab5a4da0ba4a48b6715f32561a31\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\4b35ab5a4da0ba4a48b6715f32561a31\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\c9dbc4737e7eee16e91a6d11abd5c847\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\c9dbc4737e7eee16e91a6d11abd5c847\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\play-services-auth-16.0.1.aar\934768df54ad1aa6b3edf1dd21de0e54\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\play-services-auth-16.0.1.aar\934768df54ad1aa6b3edf1dd21de0e54\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:16.0.0] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\play-services-auth-api-phone-16.0.0.aar\f235c5634e9931279a10b330c1fe1f29\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:16.0.0] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\play-services-auth-api-phone-16.0.0.aar\f235c5634e9931279a10b330c1fe1f29\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:16.0.0] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\play-services-auth-base-16.0.0.aar\ed5dcb32a2c74e24604a2a6b323c7bcb\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:16.0.0] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\play-services-auth-base-16.0.0.aar\ed5dcb32a2c74e24604a2a6b323c7bcb\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\f292c37a798d67fc655011515d831927\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\f292c37a798d67fc655011515d831927\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\a3b13f3d2ba3594c1f304705b048466f\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\a3b13f3d2ba3594c1f304705b048466f\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\35c1be413027e8dec9d71126497498e5\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\35c1be413027e8dec9d71126497498e5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0.aar\52a34ce70ba1bcb8ba0126cb7c27edbd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0.aar\52a34ce70ba1bcb8ba0126cb7c27edbd\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\284687622f67d35588a70a8f122d57ab\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\284687622f67d35588a70a8f122d57ab\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\9ea34d8857bc2d10beb8c6ecfdcc6444\AndroidManifest.xml:20:5-44
@@ -161,6 +277,8 @@ MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Trump\
 MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\4a3586e9e92401955e9bc4b005da3d5c\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:transition:28.0.0] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\5097ec91758f79f4588e3ea79bdb884d\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:transition:28.0.0] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\5097ec91758f79f4588e3ea79bdb884d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\2436d47a82f03ccdad4f46720a737f63\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\2436d47a82f03ccdad4f46720a737f63\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:loader:28.0.0] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\28cd408bc2b533c809ee3dc66054b2f2\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:loader:28.0.0] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\28cd408bc2b533c809ee3dc66054b2f2\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\3481e015a7aec6bdea8ad15a6106623b\AndroidManifest.xml:20:5-44
@@ -203,16 +321,32 @@ MERGED from [com.android.support:print:28.0.0] C:\Users\Trump\.gradle\caches\tra
 MERGED from [com.android.support:print:28.0.0] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\e70e98e0ebad0b37bd0a435b1c9a6c74\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\de208e69c96f4cdc47e0d79c12694dec\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\de208e69c96f4cdc47e0d79c12694dec\AndroidManifest.xml:20:5-44
-INJECTED from C:\Users\Trump\Android_CODE\perfect attempts\best\UCFLive\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\Trump\Android_CODE\perfect attempts\best\UCFLive\app\src\main\AndroidManifest.xml
+MERGED from [org.webkit:android-jsc:r224109] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\android-jsc-r224109.aar\328060be545c4aaae1a0c82ed9362d95\AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r224109] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\android-jsc-r224109.aar\328060be545c4aaae1a0c82ed9362d95\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:fresco:1.10.0] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\fresco-1.10.0.aar\173a22d0c8039385407029ee27d0929b\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.10.0] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\fresco-1.10.0.aar\173a22d0c8039385407029ee27d0929b\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\imagepipeline-okhttp3-1.10.0.aar\b5b9cfca1fd8f506447a9fbff30d0808\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\imagepipeline-okhttp3-1.10.0.aar\b5b9cfca1fd8f506447a9fbff30d0808\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\drawee-1.10.0.aar\6b07d54e5aef643b695e1c9b9f33e804\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\drawee-1.10.0.aar\6b07d54e5aef643b695e1c9b9f33e804\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\imagepipeline-1.10.0.aar\9b2786b5d0a7c7cd8cc3954268771ae9\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\imagepipeline-1.10.0.aar\9b2786b5d0a7c7cd8cc3954268771ae9\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\imagepipeline-base-1.10.0.aar\1a6bbd8fb03ba4786f282884c563c315\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\imagepipeline-base-1.10.0.aar\1a6bbd8fb03ba4786f282884c563c315\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.5.1] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\soloader-0.5.1.aar\01ecfae142b047f91046660b595faa79\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.5.1] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\soloader-0.5.1.aar\01ecfae142b047f91046660b595faa79\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\fbcore-1.10.0.aar\04cb981f9af116507c6547a33a9eacc7\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\fbcore-1.10.0.aar\04cb981f9af116507c6547a33a9eacc7\AndroidManifest.xml:5:5-7:41
+INJECTED from C:\Users\Trump\Android_CODE\Final 2\UCFLive\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Trump\Android_CODE\Final 2\UCFLive\app\src\main\AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from C:\Users\Trump\Android_CODE\perfect attempts\best\UCFLive\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Trump\Android_CODE\perfect attempts\best\UCFLive\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Trump\Android_CODE\perfect attempts\best\UCFLive\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Trump\Android_CODE\Final 2\UCFLive\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Trump\Android_CODE\Final 2\UCFLive\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Trump\Android_CODE\Final 2\UCFLive\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from C:\Users\Trump\Android_CODE\perfect attempts\best\UCFLive\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Trump\Android_CODE\perfect attempts\best\UCFLive\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Trump\Android_CODE\perfect attempts\best\UCFLive\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Trump\Android_CODE\Final 2\UCFLive\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Trump\Android_CODE\Final 2\UCFLive\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Trump\Android_CODE\Final 2\UCFLive\app\src\main\AndroidManifest.xml
 provider#android.arch.lifecycle.ProcessLifecycleOwnerInitializer
 ADDED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\extensions-1.1.1.aar\c28ca7520c40d901b81b2f10fd7e0f53\AndroidManifest.xml:23:9-27:43
 	android:authorities
@@ -223,3 +357,125 @@ ADDED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\Trump\.gradle\cach
 		ADDED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\extensions-1.1.1.aar\c28ca7520c40d901b81b2f10fd7e0f53\AndroidManifest.xml:26:13-37
 	android:name
 		ADDED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\extensions-1.1.1.aar\c28ca7520c40d901b81b2f10fd7e0f53\AndroidManifest.xml:24:13-83
+uses-permission#android.permission.BLUETOOTH
+ADDED from [org.jitsi.react:jitsi-meet-sdk:1.21.0] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\jitsi-meet-sdk-1.21.0.aar\2037245ac2a67941a775384dd1483d09\AndroidManifest.xml:10:5-68
+	android:name
+		ADDED from [org.jitsi.react:jitsi-meet-sdk:1.21.0] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\jitsi-meet-sdk-1.21.0.aar\2037245ac2a67941a775384dd1483d09\AndroidManifest.xml:10:22-65
+uses-permission#android.permission.CAMERA
+ADDED from [org.jitsi.react:jitsi-meet-sdk:1.21.0] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\jitsi-meet-sdk-1.21.0.aar\2037245ac2a67941a775384dd1483d09\AndroidManifest.xml:11:5-65
+	android:name
+		ADDED from [org.jitsi.react:jitsi-meet-sdk:1.21.0] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\jitsi-meet-sdk-1.21.0.aar\2037245ac2a67941a775384dd1483d09\AndroidManifest.xml:11:22-62
+uses-permission#android.permission.MANAGE_OWN_CALLS
+ADDED from [org.jitsi.react:jitsi-meet-sdk:1.21.0] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\jitsi-meet-sdk-1.21.0.aar\2037245ac2a67941a775384dd1483d09\AndroidManifest.xml:13:5-75
+	android:name
+		ADDED from [org.jitsi.react:jitsi-meet-sdk:1.21.0] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\jitsi-meet-sdk-1.21.0.aar\2037245ac2a67941a775384dd1483d09\AndroidManifest.xml:13:22-72
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from [org.jitsi.react:jitsi-meet-sdk:1.21.0] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\jitsi-meet-sdk-1.21.0.aar\2037245ac2a67941a775384dd1483d09\AndroidManifest.xml:14:5-80
+	android:name
+		ADDED from [org.jitsi.react:jitsi-meet-sdk:1.21.0] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\jitsi-meet-sdk-1.21.0.aar\2037245ac2a67941a775384dd1483d09\AndroidManifest.xml:14:22-77
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from [org.jitsi.react:jitsi-meet-sdk:1.21.0] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\jitsi-meet-sdk-1.21.0.aar\2037245ac2a67941a775384dd1483d09\AndroidManifest.xml:15:5-71
+	android:name
+		ADDED from [org.jitsi.react:jitsi-meet-sdk:1.21.0] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\jitsi-meet-sdk-1.21.0.aar\2037245ac2a67941a775384dd1483d09\AndroidManifest.xml:15:22-68
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from [org.jitsi.react:jitsi-meet-sdk:1.21.0] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\jitsi-meet-sdk-1.21.0.aar\2037245ac2a67941a775384dd1483d09\AndroidManifest.xml:16:5-78
+MERGED from [com.facebook.react:react-native:0.57.6] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\react-native-0.57.6.aar\ff843f920a10b7ab042ce9a1bcd88e77\AndroidManifest.xml:11:5-78
+MERGED from [com.facebook.react:react-native:0.57.6] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\react-native-0.57.6.aar\ff843f920a10b7ab042ce9a1bcd88e77\AndroidManifest.xml:11:5-78
+	android:name
+		ADDED from [org.jitsi.react:jitsi-meet-sdk:1.21.0] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\jitsi-meet-sdk-1.21.0.aar\2037245ac2a67941a775384dd1483d09\AndroidManifest.xml:16:22-75
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [org.jitsi.react:jitsi-meet-sdk:1.21.0] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\jitsi-meet-sdk-1.21.0.aar\2037245ac2a67941a775384dd1483d09\AndroidManifest.xml:17:5-68
+	android:name
+		ADDED from [org.jitsi.react:jitsi-meet-sdk:1.21.0] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\jitsi-meet-sdk-1.21.0.aar\2037245ac2a67941a775384dd1483d09\AndroidManifest.xml:17:22-65
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from [org.jitsi.react:jitsi-meet-sdk:1.21.0] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\jitsi-meet-sdk-1.21.0.aar\2037245ac2a67941a775384dd1483d09\AndroidManifest.xml:18:5-76
+	android:name
+		ADDED from [org.jitsi.react:jitsi-meet-sdk:1.21.0] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\jitsi-meet-sdk-1.21.0.aar\2037245ac2a67941a775384dd1483d09\AndroidManifest.xml:18:22-73
+uses-feature#0x00020000
+ADDED from [org.jitsi.react:jitsi-meet-sdk:1.21.0] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\jitsi-meet-sdk-1.21.0.aar\2037245ac2a67941a775384dd1483d09\AndroidManifest.xml:20:5-22:35
+	android:glEsVersion
+		ADDED from [org.jitsi.react:jitsi-meet-sdk:1.21.0] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\jitsi-meet-sdk-1.21.0.aar\2037245ac2a67941a775384dd1483d09\AndroidManifest.xml:21:9-41
+	android:required
+		ADDED from [org.jitsi.react:jitsi-meet-sdk:1.21.0] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\jitsi-meet-sdk-1.21.0.aar\2037245ac2a67941a775384dd1483d09\AndroidManifest.xml:22:9-32
+uses-feature#android.hardware.camera
+ADDED from [org.jitsi.react:jitsi-meet-sdk:1.21.0] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\jitsi-meet-sdk-1.21.0.aar\2037245ac2a67941a775384dd1483d09\AndroidManifest.xml:23:5-25:36
+	android:required
+		ADDED from [org.jitsi.react:jitsi-meet-sdk:1.21.0] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\jitsi-meet-sdk-1.21.0.aar\2037245ac2a67941a775384dd1483d09\AndroidManifest.xml:25:9-33
+	android:name
+		ADDED from [org.jitsi.react:jitsi-meet-sdk:1.21.0] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\jitsi-meet-sdk-1.21.0.aar\2037245ac2a67941a775384dd1483d09\AndroidManifest.xml:24:9-47
+uses-feature#android.hardware.camera.autofocus
+ADDED from [org.jitsi.react:jitsi-meet-sdk:1.21.0] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\jitsi-meet-sdk-1.21.0.aar\2037245ac2a67941a775384dd1483d09\AndroidManifest.xml:26:5-28:36
+	android:required
+		ADDED from [org.jitsi.react:jitsi-meet-sdk:1.21.0] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\jitsi-meet-sdk-1.21.0.aar\2037245ac2a67941a775384dd1483d09\AndroidManifest.xml:28:9-33
+	android:name
+		ADDED from [org.jitsi.react:jitsi-meet-sdk:1.21.0] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\jitsi-meet-sdk-1.21.0.aar\2037245ac2a67941a775384dd1483d09\AndroidManifest.xml:27:9-57
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from [org.jitsi.react:jitsi-meet-sdk:1.21.0] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\jitsi-meet-sdk-1.21.0.aar\2037245ac2a67941a775384dd1483d09\AndroidManifest.xml:34:9-86
+	android:name
+		ADDED from [org.jitsi.react:jitsi-meet-sdk:1.21.0] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\jitsi-meet-sdk-1.21.0.aar\2037245ac2a67941a775384dd1483d09\AndroidManifest.xml:34:19-83
+service#org.jitsi.meet.sdk.ConnectionService
+ADDED from [org.jitsi.react:jitsi-meet-sdk:1.21.0] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\jitsi-meet-sdk-1.21.0.aar\2037245ac2a67941a775384dd1483d09\AndroidManifest.xml:36:9-42:19
+	android:permission
+		ADDED from [org.jitsi.react:jitsi-meet-sdk:1.21.0] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\jitsi-meet-sdk-1.21.0.aar\2037245ac2a67941a775384dd1483d09\AndroidManifest.xml:38:13-84
+	android:name
+		ADDED from [org.jitsi.react:jitsi-meet-sdk:1.21.0] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\jitsi-meet-sdk-1.21.0.aar\2037245ac2a67941a775384dd1483d09\AndroidManifest.xml:37:13-64
+intent-filter#action:name:android.telecom.ConnectionService
+ADDED from [org.jitsi.react:jitsi-meet-sdk:1.21.0] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\jitsi-meet-sdk-1.21.0.aar\2037245ac2a67941a775384dd1483d09\AndroidManifest.xml:39:13-41:29
+action#android.telecom.ConnectionService
+ADDED from [org.jitsi.react:jitsi-meet-sdk:1.21.0] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\jitsi-meet-sdk-1.21.0.aar\2037245ac2a67941a775384dd1483d09\AndroidManifest.xml:40:17-76
+	android:name
+		ADDED from [org.jitsi.react:jitsi-meet-sdk:1.21.0] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\jitsi-meet-sdk-1.21.0.aar\2037245ac2a67941a775384dd1483d09\AndroidManifest.xml:40:25-73
+uses-permission#android.permission.WRITE_CALENDAR
+ADDED from [com.facebook.react:react-native-calendar-events:1.6.3-jitsi-1] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\react-native-calendar-events-1.6.3-jitsi-1.aar\238fe54760fad01757bab4420ed187c5\AndroidManifest.xml:11:5-73
+	android:name
+		ADDED from [com.facebook.react:react-native-calendar-events:1.6.3-jitsi-1] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\react-native-calendar-events-1.6.3-jitsi-1.aar\238fe54760fad01757bab4420ed187c5\AndroidManifest.xml:11:22-70
+uses-permission#android.permission.READ_CALENDAR
+ADDED from [com.facebook.react:react-native-calendar-events:1.6.3-jitsi-1] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\react-native-calendar-events-1.6.3-jitsi-1.aar\238fe54760fad01757bab4420ed187c5\AndroidManifest.xml:12:5-72
+	android:name
+		ADDED from [com.facebook.react:react-native-calendar-events:1.6.3-jitsi-1] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\react-native-calendar-events-1.6.3-jitsi-1.aar\238fe54760fad01757bab4420ed187c5\AndroidManifest.xml:12:22-69
+meta-data#com.dylanvann.fastimage.OkHttpProgressGlideModule
+ADDED from [com.facebook.react:react-native-fast-image:4.0.14-jitsi-1] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\react-native-fast-image-4.0.14-jitsi-1.aar\44e62f3e9bcd0b02b5254c6b44345f84\AndroidManifest.xml:13:9-15:43
+	android:value
+		ADDED from [com.facebook.react:react-native-fast-image:4.0.14-jitsi-1] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\react-native-fast-image-4.0.14-jitsi-1.aar\44e62f3e9bcd0b02b5254c6b44345f84\AndroidManifest.xml:15:13-40
+	android:name
+		ADDED from [com.facebook.react:react-native-fast-image:4.0.14-jitsi-1] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\react-native-fast-image-4.0.14-jitsi-1.aar\44e62f3e9bcd0b02b5254c6b44345f84\AndroidManifest.xml:14:13-77
+meta-data#com.bumptech.glide.integration.okhttp.OkHttpGlideModule
+ADDED from [com.facebook.react:react-native-fast-image:4.0.14-jitsi-1] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\react-native-fast-image-4.0.14-jitsi-1.aar\44e62f3e9bcd0b02b5254c6b44345f84\AndroidManifest.xml:16:9-19:35
+	tools:node
+		ADDED from [com.facebook.react:react-native-fast-image:4.0.14-jitsi-1] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\react-native-fast-image-4.0.14-jitsi-1.aar\44e62f3e9bcd0b02b5254c6b44345f84\AndroidManifest.xml:19:13-32
+	android:value
+		ADDED from [com.facebook.react:react-native-fast-image:4.0.14-jitsi-1] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\react-native-fast-image-4.0.14-jitsi-1.aar\44e62f3e9bcd0b02b5254c6b44345f84\AndroidManifest.xml:18:13-40
+	android:name
+		ADDED from [com.facebook.react:react-native-fast-image:4.0.14-jitsi-1] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\react-native-fast-image-4.0.14-jitsi-1.aar\44e62f3e9bcd0b02b5254c6b44345f84\AndroidManifest.xml:17:13-83
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\play-services-auth-16.0.1.aar\934768df54ad1aa6b3edf1dd21de0e54\AndroidManifest.xml:23:9-27:75
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\play-services-auth-16.0.1.aar\934768df54ad1aa6b3edf1dd21de0e54\AndroidManifest.xml:25:13-46
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\play-services-auth-16.0.1.aar\934768df54ad1aa6b3edf1dd21de0e54\AndroidManifest.xml:26:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\play-services-auth-16.0.1.aar\934768df54ad1aa6b3edf1dd21de0e54\AndroidManifest.xml:27:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\play-services-auth-16.0.1.aar\934768df54ad1aa6b3edf1dd21de0e54\AndroidManifest.xml:24:13-93
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\play-services-auth-16.0.1.aar\934768df54ad1aa6b3edf1dd21de0e54\AndroidManifest.xml:33:9-36:110
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\play-services-auth-16.0.1.aar\934768df54ad1aa6b3edf1dd21de0e54\AndroidManifest.xml:35:13-36
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\play-services-auth-16.0.1.aar\934768df54ad1aa6b3edf1dd21de0e54\AndroidManifest.xml:36:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\play-services-auth-16.0.1.aar\934768df54ad1aa6b3edf1dd21de0e54\AndroidManifest.xml:34:13-89
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\f292c37a798d67fc655011515d831927\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\f292c37a798d67fc655011515d831927\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\f292c37a798d67fc655011515d831927\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\f292c37a798d67fc655011515d831927\AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\35c1be413027e8dec9d71126497498e5\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\35c1be413027e8dec9d71126497498e5\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\Trump\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\35c1be413027e8dec9d71126497498e5\AndroidManifest.xml:24:13-58

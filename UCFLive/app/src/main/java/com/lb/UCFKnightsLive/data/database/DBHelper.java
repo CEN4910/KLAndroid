@@ -6,7 +6,8 @@ import android.database.sqlite.SQLiteOpenHelper;
 
 public class DBHelper extends SQLiteOpenHelper {
 
-    public static final String DB_FILE_NAME = "ucflive.db";
+    public static final String DB_FILE_NAME = "C:\\Users\\Trump\\Documents\\GitHub\\Database\\ucflive.db";
+    //public static final String DB_FILE_NAME = "C:\\Users\\Trump\\Documents\\GitHub\\Database\\ucflive99.db";
     public static final int DB_VERSION = 1;
 
     public DBHelper(Context context) {

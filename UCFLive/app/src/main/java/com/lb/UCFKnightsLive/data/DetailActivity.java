@@ -10,14 +10,35 @@ import android.widget.Button;
 import android.widget.ImageView;
 import android.widget.TextView;
 import com.lb.UCFKnightsLive.data.model.DataItem;
-
+import android.webkit.WebView;
+import android.webkit.WebViewClient;
 import java.io.File;
 import java.io.IOException;
 import java.io.InputStream;
+import android.content.SharedPreferences;
+import android.preference.PreferenceManager;
+import android.support.v4.widget.DrawerLayout;
+import android.support.v7.widget.GridLayoutManager;
+import android.support.v7.widget.RecyclerView;
+import android.view.Menu;
+import android.view.MenuItem;
+import android.widget.AdapterView;
+import android.widget.ArrayAdapter;
+import android.widget.ListView;
+import android.widget.Toast;
+import com.lb.UCFKnightsLive.data.database.DataSource;
+import com.lb.UCFKnightsLive.data.model.DataItem;
+import com.lb.UCFKnightsLive.data.sample.SampleDataProvider;
+import java.util.List;
+import android.support.design.widget.FloatingActionButton;
+import android.support.design.widget.Snackbar;
+import android.support.design.widget.NavigationView;
+import android.support.v4.view.GravityCompat;
+import android.support.v7.widget.Toolbar;
 
 @SuppressWarnings("FieldCanBeLocal")
 public class DetailActivity extends AppCompatActivity{
-
+   // private WebView wv1;
     private TextView titleName, videoDescription;
     private ImageView itemImage;
     private Button jitsi_sign_in_button;
@@ -64,22 +85,25 @@ public class DetailActivity extends AppCompatActivity{
         jitsi_sign_in_button.setOnClickListener(new View.OnClickListener(){
             @Override
             public void onClick(View v) {
-                Intent LaunchIntent = getPackageManager().getLaunchIntentForPackage("org.jitsi.meet");
+               //openMain();
+               openJitsi();
+              /*  Intent LaunchIntent = getPackageManager().getLaunchIntentForPackage("org.jitsi.meet");
                 startActivity(LaunchIntent);
-
-/*
-
-            Intent LaunchIntent = new Intent(Intent.ACTION_VIEW);
-            LaunchIntent.setDataAndType( Uri.fromFile(new File( japk)), "japk/Jitsi Meet_v1.20.111_apkpure.com.apk");
-            LaunchIntent.addFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
-            context.startActivity(LaunchIntent);
-            // attemptLogin();*/
-
-// <option name="APK_PATH" value="$MODULE_DIR$/Jitsi Meet_v1.20.111_apkpure.com.apk" />
-                //      <option name="APP_PACKAGE" value="org.jitsi.meet" />
+                String wv1 = "titleName";
+              // wv1.loadUrl("javascript:document.getElementById('titleName').value = '"+titleName+"';");
+*/
 
             }
         });
+
     }
 
+    public void openJitsi(){
+        Intent intent = new Intent(this, Jitsi.class);
+        startActivity(intent);
+    }
+    public void openMain(){
+        Intent intent = new Intent(this, Main.class);
+        startActivity(intent);
+    }
 }

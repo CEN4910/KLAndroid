@@ -18,7 +18,6 @@ public class PrefsActivity extends AppCompatActivity {
                 .beginTransaction()
                 .add(R.id.prefs_content, new SettingsFragment())
                 .commit();
-
     }
 
     public static class SettingsFragment extends PreferenceFragment {

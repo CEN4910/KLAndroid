@@ -22,8 +22,11 @@
     <string name="display_all">Display all</string>
     <string name="choose_a_category">Choose a category</string>
     <string-array name="categories">
-        <item>LIVE</item>
-        <item>Archived</item>
+        <item>LIVE Videos</item>
+        <item>Archived Videos</item>
+        <item>Faculty</item>
+        <item>Students</item>
+        <item>Activities</item>
     </string-array>
 
     <string name="title_activity_main">KnightsLive</string>
